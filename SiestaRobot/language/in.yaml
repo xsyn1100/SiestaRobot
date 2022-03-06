@@ -9,12 +9,12 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 
 # PM Text
 pm_start_text: |
-*Hello {} !*
-────────────────────────
-✪ I'm an anime theme bot designed to help manage your telegram group with a lot features.
-✪ Maintained by @shshtst ✨
-────────────────────────
-Hit the /help to see available command.
+  *Hello {} !*
+  ────────────────────────
+  ✪ I'm an anime theme bot designed to help manage your telegram group with a lot features.
+  ✪ Maintained by @shshtst ✨
+  ────────────────────────
+  Hit the /help to see available command.
 
 group_start_text: |
   *👋🏻 Hi Darling, I'm Syn Robot!*
