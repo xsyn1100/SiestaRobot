@@ -10,7 +10,7 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 # PM Text
 pm_start_text: |
   *Hey Darling, {} ❤️*
-  ✪ I'm an anime-theme management robot by @shshtst
+  ✪ I'm an anime-theme management robot [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
 
   ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
   × *Server Uptime :* `{}`
@@ -18,7 +18,7 @@ pm_start_text: |
   ┗━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┛
 
   ✪ Hit /help to see my available commands.
-
+   
 group_start_text: |
   *👋🏻 Hi Darling, I'm Syn Robot!*
   
@@ -88,7 +88,7 @@ notes_button: "Notes"
 source_button: "Source Code"
 help_button: "Get Help"
 back_button: "Go back"
-about_button: "About Syn Robot"
+about_button: "About Siesta Robot"
 inline_button: "Try inline!​​"
 
 # MODULES
