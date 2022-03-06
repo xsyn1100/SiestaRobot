@@ -9,9 +9,8 @@ set_chat_lang: "Bagus, menggunakan Bahasa {} mulai sekarang!"
 
 # PM Text
 pm_start_text: |
-  *Hai sayang, {} ❤️*
-  ✪ Saya adalah robot manajemen tema anime [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
-
+  *Hai sayang, {} *
+  ✪ Saya adalah robot manajemen tema anime 
   ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
   × *Waktu Operasi Server :* `{}`
   × `{}` *pengguna, di seluruh* `{}` *obrolan.*
@@ -81,7 +80,7 @@ group_settings_text: "Klik di sini untuk mendapatkan pengaturan obrolan ini, ser
 group_settings_button: "Pengaturan"
 
 # PM Button
-add_bot_to_group_button: "♕ Tambahkan Saya Ke Grup Anda ♕"
+add_bot_to_group_button: "➗ Tambahkan Saya Ke Grup Anda ➗"
 support_chat_link_button: "Mendukung"
 updates_channel_link_button: "Pembaruan"
 notes_button: "Catatan"
