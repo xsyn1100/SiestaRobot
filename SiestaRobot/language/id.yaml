@@ -9,7 +9,7 @@ set_chat_lang: "Bagus, menggunakan Bahasa {} mulai sekarang!"
 
 # PM Text
 pm_start_text: |
-  *Hai sayang, {} ❤*
+    *Hai sayang, {} *
   ─────────────────────
   Saya adalah bot tema anime yang dirancang untuk membantu mengelola grup telegram Anda dengan banyak fitur.
   Dikelola oleh @shshtst
