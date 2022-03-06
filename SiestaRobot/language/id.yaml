@@ -10,7 +10,7 @@ set_chat_lang: "Bagus, menggunakan Bahasa {} mulai sekarang!"
 # PM Text
 pm_start_text: |
   *Hai sayang, {} ❤️*
-  ✪ Saya adalah robot manajemen tema anime by @shshtst
+  ✪ Saya adalah robot manajemen tema anime [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
 
   ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
   × *Waktu Operasi Server :* `{}`
@@ -19,7 +19,6 @@ pm_start_text: |
 
   ✪ Tekan /help untuk melihat perintah saya yang tersedia.
    
-
 group_start_text: |
   *👋🏻 Hai Sayang, aku Robot Syn!* 
   
@@ -40,7 +39,7 @@ pm_about_text: |
 pm_about_admin_text: |
   *✺ Ayo buat grupmu sedikit efektif sekarang ✺*
 
-  Selamat, Robot Siesta sekarang siap untuk mengelola grup Anda.
+  Selamat, Robot Syn sekarang siap untuk mengelola grup Anda.
 
   *Alat Admin*
   Alat Admin Dasar membantu Anda melindungi dan memperkuat grup Anda.
@@ -59,8 +58,7 @@ pm_about_support_text: |
 
   Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di Syn.
 pm_about_credit_text: |
-  *✺ Credits for Syn ✺*
-
+  *✺ Credits for Syn ✺
   Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Robot Syn
 pm_help_text: |
   *✺ Klik tombol di bawah ini untuk mendapatkan deskripsi tentang perintah spesifik. ✺*
@@ -90,7 +88,7 @@ notes_button: "Catatan"
 source_button: "Kode sumber"
 help_button: "Mendapatkan bantuan"
 back_button: "Kembali"
-about_button: "Tentang Syn Robot"
+about_button: "Tentang Siesta Robot"
 inline_button: "Mencoba inline!​​"
 
 # MODULES
