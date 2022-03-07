@@ -9,17 +9,17 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 
 # PM Text
 pm_start_text: |
-  *Hai Darling, {} ❤️*
-
-  ✪ I'm an anime-theme management robot
-  ────────────────────────
-  × *Server Uptime* : `{}`
+  *Hey Darling, {} ❤️*
+  ✪ I'm an anime-theme management robot 
+  ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
+  × *Server Uptime :* `{}`
   × `{}` *users, across* `{}` *chats.*
-  ────────────────────────
+  ┗━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┛
+  
   ✪ Maintained by @shshtst ✨
-
-  Hit the /help to see available command
-
+  ✪ Hit /help to see my available commands.
+  
+   
 group_start_text: |
   *👋🏻 Hi Darling, I'm Syn Robot!*
   
@@ -64,6 +64,7 @@ pm_about_credit_text: |
   Here Developers Making And Give Inspiration For Made The Syn Robot
 pm_help_text: |
   *✺ Click on the button bellow to get description about specifics command. ✺*
+pm_help_module_text: "Here is the help for the *{}* module :\n\n"
 
 # Group Help Text
 group_help_text: "Contact me in PM to get the list of possible commands."
@@ -82,15 +83,15 @@ group_settings_text: "Click here to get this chat's settings, as well as yours."
 group_settings_button: "Settings"
 
 # PM Button
-add_bot_to_group_button: "➗ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ​ ➗"
+add_bot_to_group_button: " Add Me To Your Group "
 support_chat_link_button: "Support"
 updates_channel_link_button: "Update"
 notes_button: "Notes"
 source_button: "Source Code"
-help_button: Get Help"
+help_button: "Get Help"
 back_button: "Go back"
-about_button: "About me"
-inline_button: "Try inline!"
+about_button: "About Me"
+inline_button: "Try inline!​​"
 
 # MODULES
 admin_help: |
