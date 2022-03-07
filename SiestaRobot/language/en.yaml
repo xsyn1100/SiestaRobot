@@ -9,7 +9,7 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 
 # PM Text
 pm_start_text: |
-  *Hai Darling, {}❤️*
+  *Hai Darling, {} ❤️*
 
   ✪ I'm an anime-theme management robot
   ────────────────────────
@@ -18,7 +18,7 @@ pm_start_text: |
   ────────────────────────
   ✪ Maintained by @shshtst ✨
 
-Hit the /help to see available command
+  Hit the /help to see available command
 
 group_start_text: |
   *👋🏻 Hi Darling, I'm Syn Robot!*
