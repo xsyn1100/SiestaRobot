@@ -11,11 +11,12 @@ set_chat_lang: "Bagus, menggunakan Bahasa {} mulai sekarang!"
 pm_start_text: |
   *Hai sayang, {} ❤ *
   ✪ Saya adalah robot manajemen tema anime 
-  ─────────────────────────────────────
+  ─────────────────────────
   × *Waktu Operasi Server :* `{}`
   × `{}` *pengguna, di seluruh* `{}` *obrolan.*
-  ─────────────────────────────────────
+  ────────────────────────
   ✪ Dikelola oleh @shshtst ✨
+  
   ✪ Tekan /help untuk melihat perintah saya yang tersedia.
    
 group_start_text: |
