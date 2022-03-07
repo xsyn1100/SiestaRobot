@@ -11,12 +11,12 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 pm_start_text: |
   *Hey Darling, {} ❤️*
   ✪ I'm an anime-theme management robot 
-  ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
+  ────────────────────────────────
   × *Server Uptime :* `{}`
   × `{}` *users, across* `{}` *chats.*
-  ┗━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┛
-  
+  ────────────────────────────────
   ✪ Maintained by @shshtst ✨
+  
   ✪ Hit /help to see my available commands.
   
    
