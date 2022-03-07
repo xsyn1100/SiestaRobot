@@ -87,10 +87,10 @@ support_chat_link_button: "Support"
 updates_channel_link_button: "Update"
 notes_button: "Notes"
 source_button: "Source Code"
-help_button: "ɢᴇᴛ ʜᴇʟᴘ"
+help_button: Get Help"
 back_button: "Go back"
-about_button: "ᴀʙᴏᴜᴛ ᴍᴇ"
-inline_button: "ᴛʀʏ ɪɴʟɪɴᴇ​​"
+about_button: "About Me"
+inline_button: "Try Inline!"
 
 # MODULES
 admin_help: |
