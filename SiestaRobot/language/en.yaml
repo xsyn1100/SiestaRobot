@@ -89,8 +89,8 @@ notes_button: "Notes"
 source_button: "Source Code"
 help_button: Get Help"
 back_button: "Go back"
-about_button: "About Me"
-inline_button: "Try Inline!"
+about_button: "About me"
+inline_button: "Try inline!"
 
 # MODULES
 admin_help: |
