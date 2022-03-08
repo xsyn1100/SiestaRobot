@@ -258,19 +258,11 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
                         \n•Creator Username:   \@{creator.username} \
                         """,
                         parse_mode=ParseMode.MARKDOWN_V2,
-                        reply_markup=InlineKeyboardMarkup(
-                            [
-                               [
-                                    InlineKeyboardButton(
-                                       "View", url=f"{creator.username}"),
-                               ]               
-                            ]
-                        )
                     )
                 else:
                     bot.send_message(
                         JOIN_LOGGER,
-                        "#NEW_GROUP\n<b>•Group name:</b> {}\n<b>ID:</b> <code>{}</code>".format(
+                        "#NEW_GROUP\n<b>Group name:</b> {}\n<b>ID:</b> <code>{}</code>".format(
                             html.escape(chat.title),
                             chat.id,
                         ),
