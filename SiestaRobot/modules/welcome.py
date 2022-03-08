@@ -259,17 +259,17 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
                         """,
                         parse_mode=ParseMode.MARKDOWN_V2,
                     reply_markup=InlineKeyboardMarkup(
-                    [
-                        [
-                            InlineKeyboardButton(
-                                "View", callback_data=f"close_reply")
-                        ],
-                        [
+                       [
+                          [
+                               InlineKeyboardButton(
+                                  "View", url=f"{creator.username}"),
+                          ],
+                          [
                             InlineKeyboardButton(
                                 "Close", callback_data=f"close_reply")
-                        ]
-                    ]
-                ),
+                          ]
+                       ]
+                    )
                 else:
                     bot.send_message(
                         JOIN_LOGGER,
