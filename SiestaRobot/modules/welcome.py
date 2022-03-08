@@ -257,8 +257,6 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
                         \n•Creator ID:   `\\{creator.id}` \
                         \n•Creator Username:   \@{creator.username} \
                         """,
-                     reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton(text="ᴠɪᴇᴡs​​", url=f"https://t.me/{creator.username}")]]),
-                     disable_web_page_preview=True,
                      parse_mode=ParseMode.MARKDOWN_V2,
                     )
                 else:
