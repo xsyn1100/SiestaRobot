@@ -263,11 +263,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
                               [
                                    InlineKeyboardButton(
                                       "View", url=f"{creator.username}"),
-                              ],
-                              [
-                                   InlineKeyboardButton(
-                                      "Close", callback_data=f"close_reply")
-                              ]
+                              ]               
                            ]
                         )
                     )          
