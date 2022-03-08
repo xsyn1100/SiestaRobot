@@ -84,6 +84,10 @@ async def bug(_, msg: Message):
                     [
                         [
                             InlineKeyboardButton(
+                                "View", url=f"http://t.me/synxsupport"),
+                        ],                      
+                        [
+                            InlineKeyboardButton(
                                 "Close", callback_data=f"close_reply")
                         ]
                     ]
