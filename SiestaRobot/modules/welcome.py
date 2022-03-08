@@ -252,17 +252,17 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
                         JOIN_LOGGER,
                         f"""
                         \\#NEWGROUP \
-                        \nGroup Name:   **\\{chat.title}** \
-                        \nID:   `\\{chat.id}` \
-                        \nCreator ID:   `\\{creator.id}` \
-                        \nCreator Username:   \@{creator.username} \
+                        \n•Group Name:   **\\{chat.title}** \
+                        \n•ID:   `\\{chat.id}` \
+                        \n•Creator ID:   `\\{creator.id}` \
+                        \n•Creator Username:   \@{creator.username} \
                         """,
                         parse_mode=ParseMode.MARKDOWN_V2,
                     )
                 else:
                     bot.send_message(
                         JOIN_LOGGER,
-                        "#NEW_GROUP\n<b>Group name:</b> {}\n<b>ID:</b> <code>{}</code>".format(
+                        "#NEW_GROUP\n<b>•Group name:</b> {}\n<b>ID:</b> <code>{}</code>".format(
                             html.escape(chat.title),
                             chat.id,
                         ),
