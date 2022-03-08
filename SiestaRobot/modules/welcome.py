@@ -252,12 +252,12 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
                         JOIN_LOGGER,
                         f"""
                         \\#NEWGROUP \
-                        \n├ Group Name:   **\\{chat.title}** \
-                        \n├ ID:   `\\{chat.id}` \
-                        \n├ Creator ID:   `\\{creator.id}` \
-                        \n├ Creator Username:   \@{creator.username} \
+                        \n• Group Name:   **\\{chat.title}** \
+                        \n• ID:   `\\{chat.id}` \
+                        \n• Creator ID:   `\\{creator.id}` \
+                        \n• Creator Username:   \@{creator.username} \
                         """,
-                     parse_mode=ParseMode.MARKDOWN_V2,
+                        parse_mode=ParseMode.MARKDOWN_V2,
                     )
                 else:
                     bot.send_message(
