@@ -119,7 +119,7 @@ def report(update: Update, context: CallbackContext) -> str:
                         callback_data=f"report_{chat.id}=kick={reported_user.id}={reported_user.first_name}",
                     ),
                     InlineKeyboardButton(
-                        "⛔️ Ban",
+                        "🚫 Ban",
                         callback_data=f"report_{chat.id}=banned={reported_user.id}={reported_user.first_name}",
                     ),
                 ],
@@ -233,7 +233,7 @@ def buttons(update: Update, context: CallbackContext):
             query.answer("✅ Succesfully kicked")
             return ""
         except Exception as err:
-            query.answer("🛑 Failed to Kick")
+            query.answer("❎ Failed to Kick")
             bot.sendMessage(
                 text=f"Error: {err}",
                 chat_id=query.message.chat_id,
@@ -250,7 +250,7 @@ def buttons(update: Update, context: CallbackContext):
                 chat_id=query.message.chat_id,
                 parse_mode=ParseMode.HTML,
             )
-            query.answer("🛑 Failed to Ban")
+            query.answer("❎ Failed to Ban")
     elif splitter[1] == "delete":
         try:
             bot.deleteMessage(splitter[0], splitter[3])
@@ -262,7 +262,7 @@ def buttons(update: Update, context: CallbackContext):
                 chat_id=query.message.chat_id,
                 parse_mode=ParseMode.HTML,
             )
-            query.answer("🛑 Failed to delete message!")
+            query.answer("❎ Failed to delete message!")
 
 
 def helps(chat):
