@@ -131,6 +131,10 @@ def kang(update, context):
                         [
                             InlineKeyboardButton(
                                 text="View Pack", url=f"t.me/addstickers/{packname}"
+                            
+                            InlineKeyboardButton(
+                                text="Support", url=f"t.me/synxsupport"
+                           
                             )
                         ]
                     ]
