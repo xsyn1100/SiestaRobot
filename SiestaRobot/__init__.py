@@ -27,7 +27,7 @@ def get_user_list(__init__, key):
         return json.load(json_file)[key]
 
 # enable logging
-FORMAT = "[SynRobot] %(message)s"
+FORMAT = "[SiestaRobot] %(message)s"
 logging.basicConfig(
     handlers=[logging.FileHandler("log.txt"), logging.StreamHandler()],
     level=logging.INFO,
@@ -37,10 +37,10 @@ logging.basicConfig(
 logging.getLogger("pyrogram").setLevel(logging.INFO)
 logging.getLogger('ptbcontrib.postgres_persistence.postgrespersistence').setLevel(logging.WARNING)
 
-LOGGER = logging.getLogger('[SynRobot]')
-LOGGER.info("Syn is starting. | An Paul Project Parts. | Licensed under GPLv3.")
+LOGGER = logging.getLogger('[SiestaRobot]')
+LOGGER.info("Siesta is starting. | An Shiinobu Project Parts. | Licensed under GPLv3.")
 LOGGER.info("Not affiliated to other anime or Villain in any way whatsoever.")
-LOGGER.info("Project maintained by: github.com/xsyn1100 (t.me/shshtst)")
+LOGGER.info("Project maintained by: github.com/shiinobu (t.me/saint_foire)")
 
 # if version < 3.9, stop bot.
 if sys.version_info[0] < 3 or sys.version_info[1] < 9:
