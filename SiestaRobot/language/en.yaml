@@ -609,33 +609,10 @@ logomarker_help: |
 musicplayer_help: |
     ──「 Musicplayer 」──
 
-    
-        ❂ UNTUK SEMUA ANGGOTA GRUP ❂
-    /play (judul lagu) - untuk memutar lagu yang anda inginkan 
-    /play (balas ke audio file) - untuk memutar lagu yang di minta melalui audio yang dibalas
-    /play (link youtube) - untuk memutar lagu yang di minta melalui url youtube
-    /song (judul lagu) - untuk mendownload lagu
+    Help Music can access with different command and support dashboard help and setting.
+    ❂ /mhelp - for help music module
+    ❂ /msettings - for setting music module
 
-       ❂ UNTUK SEMUA ADMIN GRUP ❂
-    /pause - untuk menjeda pemutaran
-    /resume - untuk melanjutkan pemutaran
-    /end - untuk menghentikan pemutaran
-    /skip - untuk memutar lagu berikutnya yang ada didalam antrian
-
-      📝 DAFTAR PERINTAH VIDEO STREAM 📝
-      
-        ❂ UNTUK SEMUA ANGGOTA GRUP ❂
-    /vplay (judul video) - untuk memutar video yang anda inginkan 
-    /vplay (balas ke video file) - untuk memutar video yang di minta melalui audio yang dibalas
-    /vplay (link youtube) - untuk memutar video yang di minta melalui url youtube
-    /vsong (judul video) - untuk mendownload video
-
-       ❂ UNTUK SEMUA ADMIN GRUP ❂
-    /vpause - untuk menjeda pemutaran
-    /vresume - untuk melanjutkan pemutaran
-    /vstop - untuk menghentikan pemutaran
-    /vskip - untuk memutar video berikutnya yang ada didalam antrian
-   
    NOTE : DON'T SPAMMING AT REQUEST SONG OR VIDEO...
 notes_help: |
     ──「 Notes 」──
