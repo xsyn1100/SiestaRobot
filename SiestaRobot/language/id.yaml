@@ -247,7 +247,7 @@ blacklist_help: |
 chatbot_help: |
     ──「 Bot Obrolan AI 」──
 
-    Siesta AI adalah satu-satunya sistem AI yang dapat mendeteksi & membalas hingga 200 bahasa
+    Syn AI adalah satu-satunya sistem AI yang dapat mendeteksi & membalas hingga 200 bahasa
 
     ❂ /chatbot [ON/OFF]: Mengaktifkan dan menonaktifkan mode AI Chat.
     ❂ /chatbot EN : Mengaktifkan chatbot berbahasa Inggris saja.
@@ -451,7 +451,7 @@ fun_help: |
     ❂ /8ball*:* memprediksi menggunakan metode 8ball
 
     - Animasi
-    ❂ /love *:* Animasi Untuk Cinta ❤️
+    ❂ /love *:* Animasi Untuk Cinta 
     ❂ /hack *:* Animasi Untuk Meretas
     ❂ /moon *:* Animasi Untuk Bulan
     ❂ /block *:* Animasi Untuk Blok
@@ -605,13 +605,22 @@ logomarker_help: |
     *Editor Gambar :*
     ❂ /edit <balas foto> - untuk mengedit gambar.
 musicplayer_help: |
-    ──「 Musikplayer 」──
+    Berikut adalah bantuan untuk modul Musicplayer :
 
-    Bantuan Musik dapat mengakses dengan perintah yang berbeda dan bantuan bantuan dan pengaturan dasbor dukungan.
-    ❂ /mhelp - untuk bantuan modul musik
-    ❂ /msettings - untuk mengatur modul musik
 
-    CATATAN : JANGAN SPAMMING DI REQUEST LAGU ATAU VIDEO...
+    ❍ /play (judul atau balas ke audio): Untuk memutar musik dari youtube atau telegram audio Anda.
+    ❍ /vplay (judul atau balas ke audio): Untuk memutar video dari YouTube.
+
+    💡 Hanya admin
+
+    ❍ /pause: Menjeda lagu yang sedang diputar.
+    ❍ /resume: Melanjutkan lagu yang dijeda.
+    ❍ /skip: Putar lagu berikutnya.
+    ❍ /end: ​​Menghentikan musik yang sedang diputar.
+    ❍ /vstop: Menghentikan video yang sedang diputar
+    ❍ /music atau /song (judul): Untuk mengunduh audio dari YouTube
+
+    CATATAN: Jika Anda memiliki masalah tentang musik syn, hubungi kami di @synxsupport.
 notes_help: |
     ──「 Catatan 」──
 
