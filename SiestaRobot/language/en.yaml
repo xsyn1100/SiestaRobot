@@ -607,24 +607,24 @@ logomarker_help: |
     *Image Editor : *
     ❂  /edit <reply photo> - to edit image.
 musicplayer_help: |
-    ──「 Perintah Dasar 」── 
+    Here is the help for the Musicplayer module :
 
-    ❂ /play - (nama lagu / balas ke audio) — play musik via YouTube.
-    ❂ /vplay -  (nama lagu / balas ke audio) – play video stream via YouTube.
-    ❂ /playlist - Untuk memutar playlist Anda atau playlist group anda.
-    ❂ /song -  (nama lagu) mendownload lagu via YouTube.
-        
-    ──「 Admin CMD 」── 
-    
-    ❂ /music on|off - mengaktifkan atau menonaktifkan music player di grup anda.
-    ❂ /pause atau /vpause - Untuk pause musik/video yang sedang di putar.
-    ❂ /resume atau /vresume - Untuk melanjutkan musik/video yang sedang ter pause.
-    ❂ /skip - Untuk melewati lagu berikutnya.
-    ❂ /end - Untuk memberhentikan pemutaran musik.
-    ❂ /vstop - untuk memberhentikan video stream yang sedang diputar.
-    ❂ /reload - Untuk memperbarui admin list.
 
-    NOTE : DON'T SPAMMING AT REQUEST SONG OR VIDEO...
+    ❍ /play (query or reply audio) to playing music from yourube or your audio telegram.
+    ❍ /vplay (query or reply audio) for playing video from YouTube.
+
+    💡 Admins only
+
+    ❍ /pause: Pause the currently playing song.
+    ❍ /resume: Resume the paused song.
+    ❍ /skip: Play next song.
+    ❍ /end: Stop the currently playing music.
+    ❍ /vstop - Stop the video that is playing
+    ❍ /music or /song (query) - To download audio from YouTube.
+    ❍ /video or /vsong (query) - To download video from YouTube.
+
+
+    NOTE : Assistant can automatically join to your groups if the bot already promoted with full rights.
 notes_help: |
     ──「 Notes 」──
 
