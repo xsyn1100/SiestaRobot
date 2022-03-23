@@ -477,8 +477,8 @@ def siesta_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="Vain", url="https://github.com/shiinobu"),
                         InlineKeyboardButton(text="Paul", url="https://github.com/xsyn1100"),
+                        InlineKeyboardButton(text="Vain", url="https://github.com/shiinobu"),
                     ],
                     [
                         InlineKeyboardButton(text="Paul Larsen", url="https://github.com/PaulSonOfLars"),
