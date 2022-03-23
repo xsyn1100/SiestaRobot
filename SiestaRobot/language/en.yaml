@@ -610,8 +610,8 @@ musicplayer_help: |
     Here is the help for the Musicplayer module :
 
 
-    ❍ /play (query or reply audio) to playing music from yourube or your audio telegram.
-    ❍ /vplay (query or reply audio) for playing video from YouTube.
+    ❍ /play (query or reply audio): to playing music from yourube or your audio telegram.
+    ❍ /vplay (query or reply audio): for playing video from YouTube.
 
     💡 Admins only
 
@@ -619,9 +619,9 @@ musicplayer_help: |
     ❍ /resume: Resume the paused song.
     ❍ /skip: Play next song.
     ❍ /end: Stop the currently playing music.
-    ❍ /vstop - Stop the video that is playing
-    ❍ /music or /song (query) - To download audio from YouTube.
-    ❍ /video or /vsong (query) - To download video from YouTube.
+    ❍ /vstop: Stop the video that is playing
+    ❍ /music or /song (query): To download audio from YouTube.
+    ❍ /video or /vsong (query): To download video from YouTube.
 
 
     NOTE : Assistant can automatically join to your groups if the bot already promoted with full rights.
