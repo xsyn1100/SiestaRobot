@@ -609,9 +609,19 @@ logomarker_help: |
 musicplayer_help: |
     ──「 Musicplayer 」──
 
-    Help Music can access with different command and support dashboard help and setting.
-    ❂ /mhelp - for help music module
-    ❂ /msettings - for setting music module
+    ** ──「 Perintah Dasar 」── ** \n\n
+    • /play - **(nama lagu / balas ke audio) — play musik via YouTube** \n"
+    • /vplay - ** (nama lagu / balas ke audio) – play video stream via YouTube** \n"
+    • /playlist - **Untuk memutar playlist Anda atau playlist group anda** \n"
+    • /song - ** (nama lagu) mendownload lagu via YouTube** \n\n"
+    ** ──「 Admin CMD 」── ** \n\n
+    • /music on|off - **mengaktifkan atau menonaktifkan music player di grup anda** \n"
+    • /pause atau /vpause - **Untuk pause musik/video yang sedang di putar** \n"
+    • /resume atau /vresume - **Untuk melanjutkan musik/video yang sedang ter pause** \n"
+    • /skip - **Untuk melewati lagu berikutnya** \n"
+    • /end - **Untuk memberhentikan pemutaran musik** \n"
+    • /vstop - **Untuk memberhentikan video stream yang sedang diputar** \n"
+    • /reload - **Untuk memperbarui admin list** \n"
 
     NOTE : DON'T SPAMMING AT REQUEST SONG OR VIDEO...
 notes_help: |
@@ -666,7 +676,7 @@ search_help: |
     ❂ /imdb <Movie name>*:* Get full info about a movie with imdb.com
     ❂ Syn <query>*:* Syn answers the query
 
-    💡 Ex : `Siesta where is Japan?`
+    💡 Ex : `Syn where is Japan?`
 stickers_help: |
     ──「 Stickers 」──
 
