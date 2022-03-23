@@ -4,11 +4,11 @@ import os
 from telethon import events, Button
 from telethon import __version__ as tlhver
 from pyrogram import __version__ as pyrover
-from SiestaRobot.events import register as MEMEK
+from SiestaRobot.events import register 
 from SiestaRobot import telethn as tbot
 
 
-@MEMEK(pattern=("/mhelp"))
+@register(pattern=("/mhelp"))
 async def awake(event):
   tai = event.sender.first_name
   LUNA = "** ──「 Perintah Dasar 」── ** \n\n"
