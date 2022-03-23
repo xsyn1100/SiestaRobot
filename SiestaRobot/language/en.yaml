@@ -607,14 +607,14 @@ logomarker_help: |
     *Image Editor : *
     ❂  /edit <reply photo> - to edit image.
 musicplayer_help: |
-        ──「 Perintah Dasar 」── 
+    ──「 Perintah Dasar 」── 
 
     ❂ /play - (nama lagu / balas ke audio) — play musik via YouTube.
     ❂ /vplay -  (nama lagu / balas ke audio) – play video stream via YouTube.
     ❂ /playlist - Untuk memutar playlist Anda atau playlist group anda.
     ❂ /song -  (nama lagu) mendownload lagu via YouTube.
         
-        ──「 Admin CMD 」── 
+    ──「 Admin CMD 」── 
     
     ❂ /music on|off - mengaktifkan atau menonaktifkan music player di grup anda.
     ❂ /pause atau /vpause - Untuk pause musik/video yang sedang di putar.
