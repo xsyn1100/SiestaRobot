@@ -249,7 +249,7 @@ blacklist_help: |
 chatbot_help: |
     ──「 Chatbot AI 」──
 
-    Siesta AI is the only ai system which can detect & reply upto 200 language's
+    Syn AI is the only ai system which can detect & reply upto 200 language's
 
     ❂ /chatbot [ON/OFF]: Enables and disables AI Chat mode.
     ❂ /chatbot EN : Enables English only chatbot.
@@ -610,7 +610,7 @@ musicplayer_help: |
     Here is the help for the Musicplayer module :
 
 
-    ❍ /play (query or reply audio): to playing music from yourube or your audio telegram.
+    ❍ /play (query or reply audio): to playing music from youtube or your audio telegram.
     ❍ /vplay (query or reply audio): for playing video from YouTube.
 
     💡 Admins only
@@ -624,7 +624,7 @@ musicplayer_help: |
     ❍ /video or /vsong (query): To download video from YouTube.
 
 
-    NOTE : Assistant can automatically join to your groups if the bot already promoted with full rights.
+    NOTE : If you have any issues regarding syn music, contact us at @synxsupport.
 notes_help: |
     ──「 Notes 」──
 
