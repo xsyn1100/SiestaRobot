@@ -607,11 +607,12 @@ logomarker_help: |
     *Image Editor : *
     ❂  /edit <reply photo> - to edit image.
 musicplayer_help: |
-    Here is the help for the Musicplayer module :
-
-
+    💡 for users
+    
     ❍ /play (query or reply audio): to playing music from youtube or your audio telegram.
     ❍ /vplay (query or reply audio): for playing video from YouTube.
+    ❍ /music or /song (query): To download audio from YouTube.
+    ❍ /video or /vsong (query): To download video from YouTube.
 
     💡 Admins only
 
@@ -620,9 +621,7 @@ musicplayer_help: |
     ❍ /skip: Play next song.
     ❍ /end: Stop the currently playing music.
     ❍ /vstop: Stop the video that is playing
-    ❍ /music or /song (query): To download audio from YouTube.
-    ❍ /video or /vsong (query): To download video from YouTube.
-
+    
 
     NOTE : If you have any issues regarding syn music, contact us at @synxsupport.
 notes_help: |
