@@ -605,15 +605,16 @@ logomarker_help: |
     *Editor Gambar :*
     ❂ /edit <balas foto> - untuk mengedit gambar.
 musicplayer_help: |
-    Berikut adalah bantuan untuk modul Musicplayer 
-
+    ──「 Musicplayer 」──
    
+
     💡 Perintah untuk semua pengguna
   
     ❍ /play (nama lagu / balas ke audio): Untuk memutar musik dari youtube atau telegram audio Anda.
     ❍ /vplay (nama video / balas ke audio): Untuk memutar video dari YouTube.
     ❍ /music atau /song (nama lagu): Untuk mengunduh audio dari YouTube
     ❍ /video or /vsong (nama video): Untuk mengunduh video dari YouTube.
+    ❍ /lyrics <nama lagu(pilihan)>: mengirimkan lirik lengkap lagu yang disediakan sebagai masukan.
 
     💡 Hanya admin
 
