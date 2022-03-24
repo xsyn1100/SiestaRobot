@@ -613,6 +613,7 @@ musicplayer_help: |
     ❍ /play (nama lagu / balas ke audio): Untuk memutar musik dari youtube atau telegram audio Anda.
     ❍ /vplay (nama video / balas ke audio): Untuk memutar video dari YouTube.
     ❍ /music atau /song (nama lagu): Untuk mengunduh audio dari YouTube
+    ❍ /video or /vsong (nama video): Untuk mengunduh video dari YouTube.
 
     💡 Hanya admin
 
