@@ -605,11 +605,14 @@ logomarker_help: |
     *Editor Gambar :*
     ❂ /edit <balas foto> - untuk mengedit gambar.
 musicplayer_help: |
-    Berikut adalah bantuan untuk modul Musicplayer :
+    Berikut adalah bantuan untuk modul Musicplayer 
 
-
-    ❍ /play (judul atau balas ke audio): Untuk memutar musik dari youtube atau telegram audio Anda.
-    ❍ /vplay (judul atau balas ke audio): Untuk memutar video dari YouTube.
+   
+    💡 Perintah untuk semua pengguna
+  
+    ❍ /play (nama lagu / balas ke audio): Untuk memutar musik dari youtube atau telegram audio Anda.
+    ❍ /vplay (nama video / balas ke audio): Untuk memutar video dari YouTube.
+    ❍ /music atau /song (nama lagu): Untuk mengunduh audio dari YouTube
 
     💡 Hanya admin
 
@@ -617,10 +620,9 @@ musicplayer_help: |
     ❍ /resume: Melanjutkan lagu yang dijeda.
     ❍ /skip: Putar lagu berikutnya.
     ❍ /end: ​​Menghentikan musik yang sedang diputar.
-    ❍ /vstop: Menghentikan video yang sedang diputar
-    ❍ /music atau /song (judul): Untuk mengunduh audio dari YouTube
+    ❍ /vstop: Menghentikan video yang sedang diputar.
 
-    CATATAN: Jika Anda memiliki masalah tentang musik syn, hubungi kami di @synxsupport.
+    CATATAN: Jika Anda memiliki masalah tentang musik, hubungi kami di @synxsupport.
 notes_help: |
     ──「 Catatan 」──
 
